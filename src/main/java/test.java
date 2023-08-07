@@ -5,5 +5,7 @@ public class test {
         System.out.println("merhaba bugun github calisiyoruz");
 
         System.out.println("java guzeldir ");
+
+        System.out.println("deneme");
     }
 }
