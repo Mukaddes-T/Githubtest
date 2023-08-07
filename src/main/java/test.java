@@ -9,5 +9,9 @@ public class test {
         System.out.println("deneme");
 
         System.out.println("Ali can");
+
+         System.out.println("github da yapilan degisiklik");
+
+        
     }
 }
