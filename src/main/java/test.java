@@ -7,5 +7,7 @@ public class test {
         System.out.println("java guzeldir ");
 
         System.out.println("deneme");
+
+        System.out.println("Ali can");
     }
 }
